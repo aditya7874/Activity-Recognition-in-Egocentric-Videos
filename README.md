@@ -29,5 +29,6 @@ K. Sai Suma, Gedela Aditya and Snehasis Mukherjee, Activity Recognition in Egoce
 3. Graph - Number of nodes to be pruned out to form the reduced dictionary of AUs.
 
 ### FPPA Dataset:
+Yipin Zhou and Tamara L. Berg. 2015. Temporal Perception and Prediction in Ego-Centric Video. In International Conference on Computer Vision. ICCV.
 ![Screenshot](Dataset.png)
 
