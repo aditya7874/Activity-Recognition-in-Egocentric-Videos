@@ -2,6 +2,8 @@
 
 K. Sai Suma, Gedela Aditya and Snehasis Mukherjee, Activity Recognition in Egocentric Videos Using Bag of Key Action Units, Proc. of ICVGIP 2018, IIIT Hyderabad, ACM, pp.- 9:1-9:9.
 
+Link: https://www.researchgate.net/publication/331987453_Activity_Recognition_in_Egocentric_Videos_Using_Bag_of_Key_Action_Units
+
 ### Abstract:
 • In this paper we present a novel methodology for recognizing human activity in Egocentric video based on the **Bag of Visual Features**. The proposed technique is based on the assumption that, only a portion of the whole video can be sufficient to identify an activity. 
 
